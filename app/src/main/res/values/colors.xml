@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#70819D</color>
+    <color name="colorPrimaryDark">#45536A</color>
+    <color name="colorAccent">#83CEFF</color>
+    <color name="secondary_help">#4FD662</color>
+    <color name="white">#FFFFFF</color>
+    <color name="message_tile_frame">#3d3d3d</color>
+</resources>

@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">rpsls</string>
+
+    <string name="base_url" translatable="false">//</string>
+
+    <string name="message_exit_from_app">Please click BACK again to exit</string>
+
+    <string name="locale">en</string>
+</resources>
